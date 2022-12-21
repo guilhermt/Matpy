@@ -9,5 +9,6 @@ Projeto desenvolvido com HTML, CSS e JavaScript - Sem a utilização de bibliote
 - Gravação e acesso ao Local Storage;
 - Geolocalização;
 
+Para criar um novo registro na aplicação, permita o acesso à sua localização e clique no local em que deseja registrar a atividade.
 
 Deploy [online](https://mapty-guilherme.netlify.app)
